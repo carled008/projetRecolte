@@ -1,0 +1,14 @@
+[project]
+name = "projet-data-recoltes"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10",
+    "pandas>=3.0",
+    "streamlit>=1.50",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.0",
+]

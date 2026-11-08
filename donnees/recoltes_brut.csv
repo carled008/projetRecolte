@@ -1,0 +1,409 @@
+annee,saison,departement,culture,surface_ha,production_t
+2023,Printemps,Ouest, Maïs,1488,1327
+2023,Printemps,Ouest,Sorgho,3577,2629
+2023,Printemps,Ouest ,Riz,2453,6122
+2023,Printemps,Ouest ,Riz,2453,6122
+2023,Printemps,Ouest,Haricot,814,464
+2023,Printemps,Ouest,Pois congo,2436,1710
+2023,Printemps,ouest,banane,568,3753 t
+2023,Printemps,Ouest,Igname,1035,4904
+2023,Printemps,Artibonite,maïs,3794,3735
+2023,Printemps,Artibonite,Sorgho,2709,2319
+2023,Printemps,Artibonite,Riz,3413,12045
+2023,Printemps,Artibonite,Haricot,1644,1160
+2023,Printemps,Artibonite,Pois congo,3009,2299 t
+2023,Printemps,Artibonite,Banane,2502,18227
+2023,Printemps,Artibonite,Igname,3300,19695
+2023,Printemps,Nord,Maïs,1635,1890
+2023,Printemps,Nord,Sorgho,1461,1393
+2023,Printemps,Nord,Riz,281,877
+2023,Printemps,Nord,Haricot,1607,1364
+2023,Printemps,Nord,Pois congo,1441,1306 t
+2023,Printemps,Nord,Banane,1041,10369
+2023,Printemps,Nord,IGNAME,1733,13484
+2023,Printemps,Sud,Maïs,794,981
+2023,Printemps,Sud,Sorgho,524,486
+2023,Printemps,Sud,Riz,1322,3912
+2023,Printemps,Sud,Haricot,358,358
+2023,Printemps,Sud,Pois congo,1338,1300
+2023,Printemps,Sud,Banane,1089,8317
+2023,Printemps,Sud,Igname,1336,9296
+2023,Printemps,Centre,Maïs,353,410
+2023,Printemps, Centre,Sorgho,1308,1309
+2023,Printemps,Centre,Haricot,2395,1938
+2023,Printemps,Centre, Pois congo,2738,2394 t
+2023,Printemps,Centre,Banane,2 517,16219
+2023,Printemps,Centre,Igname,1182,7042
+2023,Printemps,NORD-OUEST,Maïs,293,323
+2023,Printemps,NORD-OUEST,Maïs,293,323
+2023,Printemps,Nord-Ouest,Sorgho,1415,1069
+2023,Printemps,NORD-OUEST,Haricot,654,394
+2023,Printemps,Nord-Ouest,Pois congo,405,330
+2023,Printemps,Nord-Ouest,Banane,993,
+2023,Printemps,Nord-Ouest,Igname,1233,5776
+2023,Printemps,Sud-Est,MAÏS,676,599 t
+2023,Printemps,Sud-Est,Sorgho,702,611
+2023,Printemps,Sud-Est,Haricot ,1152,803
+2023,Printemps,Sud-Est ,Pois congo,1104,
+2023,Printemps,Sud-Est,Banane,1520,11393
+2023,Printemps,Sud-Est,Igname ,371,2247
+2023,Printemps,Grand'Anse,Maïs,591,717
+2023,Printemps,grand'anse,Sorgho,694,767 t
+2023,Printemps,GRAND'ANSE,Haricot ,567,436
+2023,Printemps,Grand'Anse,POIS CONGO,199,156
+2023,Printemps,grand'anse,Banane,938,8147 t
+2023,Printemps,Grand'Anse,Igname,1148,12515
+2023,Printemps,Nord-Est,Maïs,294,237
+2023,Printemps,Nord-Est,Sorgho,1039,783
+2023,Printemps,Nord-Est,Riz,540,1065
+2023,Printemps,Nord-Est,Haricot,605,318
+2023,Printemps,Nord-Est,POIS CONGO,184,103
+2023,Printemps,Nord-Est,POIS CONGO,184,103
+2023,Printemps,Nord-Est,Banane,1005,5259
+2023,Printemps,Nord-Est, Igname,1074,5654
+2023,Printemps,Nippes, Maïs,646,682
+2023,Printemps,Nippes, Sorgho,171,
+2023,Printemps,NIPPES, Haricot,541 ha,348
+2023,Printemps,Nippes,Pois congo,577,414
+2023,Printemps,Nippes,Banane,279,2089 t
+2023,Printemps,Nippes,Igname,241,1410
+2023,Automne,Ouest,Maïs,4065,3424 t
+2023,Automne,Ouest,Sorgho,2172,1693
+2023,Automne,Ouest,Riz,3800,7251
+2023,Automne,Ouest,HARICOT,2200,1204
+2023,Automne,Ouest,Pois congo,519,307
+2023,Automne,Ouest,Pois congo,519,307
+2023,Automne,Ouest,Banane,3138,19036
+2023,Automne,Ouest,Igname,2834,12050
+2023,Automne,Artibonite,Maïs,2179,1871
+2023,Automne,Artibonite, Sorgho,2862,2296
+2023,Automne,Artibonite,Riz,760,2667
+2023,Automne,Artibonite,Haricot,3283,1982
+2023,Automne,Artibonite,Pois congo,1426,863
+2023,Automne,ARTIBONITE,Banane,2864,17422
+2023,Automne,Artibonite,Igname ,3483,19113
+2023,Automne,Nord,Maïs ,491,400
+2023,Automne,Nord,Sorgho,579,487
+2023,Automne,NORD,Riz,1379,2968
+2023,Automne,Nord,Haricot,221,
+2023,Automne,Nord,Pois congo,1 127,799
+2023,Automne,Nord,Banane,1 185,8424
+2023,Automne,Nord,Banane,1 185,8424
+2023,Automne,nord,igname,1156,5475
+2023,Automne,Sud,Maïs,1987,2290
+2023,Automne,Sud,Sorgho,653,539
+2023,Automne,Sud,Riz,1785,5075
+2023,Automne,Sud,Haricot,2131,1986
+2023,Automne,Sud,Pois congo,1740,1234
+2023,Automne,Sud,Banane,846,7058
+2023,Automne,Sud,Igname,2176,15436
+2023,Automne,Centre,MAÏS,2880,2988
+2023,Automne,Centre,Sorgho,1 748,1786
+2023,Automne,Centre,haricot,824,
+2023,Automne,Centre,Pois congo,2294,1665
+2023,Automne,Centre,Banane,2707,17189
+2023,Automne,Centre,Igname,1972,9023
+2023,Automne,Nord-Ouest,Maïs,400,341
+2023,Automne,Nord-Ouest,Sorgho ,656,520 t
+2023,Automne,Nord-Ouest ,Haricot,1327,696
+2023,Automne,nord-ouest,Pois congo ,689,548
+2023,Automne,nord-ouest,Pois congo ,689,548
+2023,Automne, Nord-Ouest,Banane,492 ha,3281
+2023,Automne,Nord-Ouest,Igname,648,3376
+2023,Automne,Nord-Ouest,Igname,648,3376
+2023,Automne,Sud-Est,Maïs,1498,1545
+2023,Automne, Sud-Est,Sorgho,895,855
+2023,Automne,Sud-Est,Haricot,1426,1018
+2023,Automne,Sud-Est,Pois congo,522,441
+2023,Automne,Sud-Est,Banane,1667,11733
+2023,Automne,Sud-Est,Igname,300,1777
+2023,Automne, Grand'Anse,Maïs,1333,1692 t
+2023,Automne,Grand'Anse,SORGHO,764,
+2023,Automne,Grand'Anse ,Haricot,1374,1077
+2023,Automne, Grand'Anse,Pois congo,843,645
+2023,Automne,GRAND'ANSE,Banane,957,7397 t
+2023,Automne, Grand'Anse,Igname,1087,8284
+2023,Automne,Nord-Est,Maïs,623,528
+2023,Automne,Nord-Est ,Sorgho,1019,719
+2023,Automne,Nord-Est,Riz,1049,2082 t
+2023,Automne,Nord-Est,Haricot,519,293
+2023,Automne,Nord-Est,Pois congo,383,223
+2023,Automne,Nord-Est,Banane,997 ha,5896
+2023,Automne,Nord-Est ,Igname,315,1559
+2023,Automne,Nippes,Maïs,1 050,1026
+2023,Automne,Nippes,Maïs,1 050,1026
+2023,Automne,Nippes ,sorgho,257,217
+2023,Automne,Nippes ,sorgho,257,217
+2023,Automne,Nippes,Haricot ,345,242
+2023,Automne,Nippes,Pois congo,995,747
+2023,Automne,Nippes,Banane,219,1683
+2023,Automne,Nippes,Igname,717,3808
+2024,Printemps,Ouest,Maïs,3474,4186 t
+2024,Printemps,Ouest,Sorgho ,1028,
+2024,Printemps,Ouest,Riz,713,1902
+2024,Printemps,Ouest,Haricot,2546,1737
+2024,Printemps,Ouest,POIS CONGO,2949,2607
+2024,Printemps,OUEST,Banane,2821,20761
+2024,Printemps,Ouest,IGNAME,1618,10889
+2024,Printemps,Artibonite,Maïs,600,
+2024,Printemps, Artibonite,Sorgho,1724,1837 t
+2024,Printemps,Artibonite,Riz,1038,4385
+2024,Printemps,Artibonite,Haricot,492,341
+2024,Printemps, Artibonite, Pois congo,3885,3352
+2024,Printemps, Artibonite, Banane,2040,19156
+2024,Printemps,Artibonite, Igname,2741,18093
+2024,Printemps,Nord ,Maïs,1 270,1477
+2024,Printemps,Nord ,Sorgho,413,422
+2024,Printemps,Nord,Riz,1451,3553
+2024,Printemps,Nord,Haricot,1570,952
+2024,Printemps,Nord,Pois congo,1273,985 t
+2024,Printemps,Nord,Banane,762,8197 t
+2024,Printemps,Nord,Igname,1073,5649
+2024,Printemps,Sud,Maïs,1613,2061
+2024,Printemps,Sud,Sorgho,876,
+2024,Printemps, Sud,Riz,1660,5211
+2024,Printemps,Sud,Haricot,1253,1221 t
+2024,Printemps,Sud,Pois congo,1135,1025
+2024,Printemps,Sud,Banane,2076,19815
+2024,Printemps,Sud,Igname,792,5976
+2024,Printemps,Centre,Maïs,2581,3554
+2024,Printemps,Centre,Sorgho,2702,3136
+2024,Printemps,Centre, Haricot,1559,1297 t
+2024,Printemps,Centre,Pois congo,937,913 t
+2024,Printemps,Centre,banane,1150,8345 t
+2024,Printemps,Centre,Igname,1974,11433
+2024,Printemps,Nord-Ouest,Maïs,515,624
+2024,Printemps,Nord-Ouest, Sorgho,1309,1190
+2024,Printemps,nord-ouest,HARICOT,238,156 t
+2024,Printemps,Nord-Ouest,Pois congo,763,877
+2024,Printemps,Nord-Ouest,Banane,1622,10496
+2024,Printemps,Nord-Ouest,Igname,1139,7527
+2024,Printemps,Sud-Est,Maïs,1543,1371
+2024,Printemps,sud-est,Sorgho,552,471
+2024,Printemps,Sud-Est,Haricot,265,150
+2024,Printemps,Sud-Est,Pois congo,1551,1209
+2024,Printemps,Sud-Est,Banane,314,1997
+2024,Printemps,Sud-Est,Igname,717,
+2024,Printemps,Grand'Anse,Maïs,435,431
+2024,Printemps,GRAND'ANSE,Sorgho,566,464
+2024,Printemps,Grand'Anse,Haricot,685,382
+2024,Printemps,Grand'Anse,pois congo,1415,1010
+2024,Printemps,Grand'Anse,Banane,1544,10998
+2024,Printemps,Grand'Anse ,Igname,1090,8574
+2024,Printemps,Nord-Est,Maïs,667,716
+2024,Printemps,Nord-Est,Sorgho,1043,905
+2024,Printemps,nord-est,Riz,635,1590
+2024,Printemps,Nord-Est,Haricot,899,700
+2024,Printemps,NORD-EST,Pois congo,873 ha,664
+2024,Printemps,Nord-Est,Banane,1059,8895
+2024,Printemps,Nord-Est,Igname,787,5193
+2024,Printemps,Nord-Est,Igname,787,5193
+2024,Printemps,Nippes,Maïs,729,841
+2024,Printemps,Nippes,Sorgho,954,777
+2024,Printemps,Nippes,Haricot,453,369 t
+2024,Printemps,Nippes,Pois congo,218,169
+2024,Printemps,Nippes,Banane,337,2381
+2024,Printemps,NIPPES,Igname,276,1625
+2024,Printemps,NIPPES,Igname,276,1625
+2024,Automne,Ouest,Maïs,1126,1269
+2024,Automne, Ouest,Sorgho,876,799
+2024,Automne,Ouest,Riz,1871,4815
+2024,Automne,Ouest,Haricot,1765,1110
+2024,Automne,Ouest,Pois congo,3303,2900 t
+2024,Automne,Ouest,Banane,1411,10024
+2024,Automne,Ouest,Igname,2 550,17937
+2024,Automne,Artibonite,Maïs,1670,1350
+2024,Automne,ARTIBONITE,Sorgho,3222,1963
+2024,Automne,Artibonite,Riz ,1955,7087
+2024,Automne,Artibonite,Haricot,776,441
+2024,Automne,Artibonite,Pois congo,1 342,902
+2024,Automne,Artibonite,Banane,527,3213
+2024,Automne,Artibonite,Igname,530,2280
+2024,Automne,Nord,maïs,312,337
+2024,Automne,nord,SORGHO,235,232
+2024,Automne,Nord,Riz,1537,3318
+2024,Automne,Nord,Haricot,529,376
+2024,Automne,Nord,Pois congo,1149,831
+2024,Automne,Nord,Banane,398,3782 t
+2024,Automne,Nord,Igname,1740,8759
+2024,Automne,SUD,Maïs ,574 ha,536
+2024,Automne,Sud,Sorgho,820,657
+2024,Automne,Sud, Riz,2111,5036
+2024,Automne,Sud,Haricot,336 ha,224
+2024,Automne,Sud,Pois congo,821,595
+2024,Automne,Sud,Banane,640,4016
+2024,Automne,Sud,Igname,481,2120
+2024,Automne,Centre,Maïs,1589,1753
+2024,Automne,Centre,Sorgho,595,623
+2024,Automne,Centre,Haricot,808,500
+2024,Automne,Centre,Pois congo,484,358
+2024,Automne,Centre, Banane,2483,15887
+2024,Automne,Centre,Igname,1094,5887
+2024,Automne,Nord-Ouest,Maïs,275,247
+2024,Automne,Nord-Ouest,SORGHO,1068,897
+2024,Automne,Nord-Ouest,haricot,694,365
+2024,Automne,Nord-Ouest,Pois congo,1 587,1570
+2024,Automne,NORD-OUEST,BANANE,1695,10787
+2024,Automne,Nord-Ouest,Igname,920,4416
+2024,Automne,Sud-Est,Maïs,1676,1646
+2024,Automne,Sud-Est,Sorgho,755,690
+2024,Automne,Sud-Est ,Haricot,1045,623
+2024,Automne,Sud-Est,pois congo,1541,1088 t
+2024,Automne,Sud-Est,Banane,543,3112
+2024,Automne,Sud-Est,Igname,267,1224
+2024,Automne,Grand'Anse,Maïs,434,365
+2024,Automne,Grand'Anse,Sorgho,864,680
+2024,Automne,Grand'Anse,Haricot,513,259
+2024,Automne,Grand'Anse,POIS CONGO,749,451
+2024,Automne,Grand'Anse,Banane,286,1965
+2024,Automne,Grand'Anse,Banane,286,1965
+2024,Automne,Grand'Anse,Igname,1328,8713
+2024,Automne,Nord-Est,Maïs,577,528 t
+2024,Automne,Nord-Est, Sorgho,1261,908
+2024,Automne,Nord-Est,Riz,1322,2763
+2024,Automne,Nord-Est,HARICOT,1025,598
+2024,Automne,Nord-Est,Pois congo,1107,571
+2024,Automne,Nord-Est,Banane ,183,956
+2024,Automne,Nord-Est,Banane ,183,956
+2024,Automne,Nord-Est,Igname,326,1484
+2024,Automne,Nord-Est,Igname,326,1484
+2024,Automne,Nippes,Maïs,1022,1041 t
+2024,Automne,Nippes,Sorgho,150,134
+2024,Automne,Nippes,Haricot,573,358
+2024,Automne,NIPPES,Pois congo,280,194
+2024,Automne,Nippes,Banane,221 ha,1618
+2024,Automne,Nippes,Igname,574,2790
+2025,Printemps,Ouest,Maïs,3863,4745
+2025,Printemps,Ouest,Sorgho,3984,3938
+2025,Printemps,Ouest,Riz,909,2559
+2025,Printemps,Ouest,Haricot,2922,2094 t
+2025,Printemps,Ouest,Pois congo,839,
+2025,Printemps,Ouest,Pois congo,839,
+2025,Printemps,Ouest,Banane,1432,10716
+2025,Printemps,Ouest,Banane,1432,10716
+2025,Printemps,Ouest,Igname,836,5477
+2025,Printemps,artibonite,Maïs,1786,2057
+2025,Printemps,Artibonite,Sorgho ,2693,2515
+2025,Printemps,Artibonite,Riz,3454,15807
+2025,Printemps,Artibonite,Haricot,2132,1428
+2025,Printemps,Artibonite,pois congo,2854,2308
+2025,Printemps,Artibonite,Banane,1936,16168
+2025,Printemps,Artibonite,Igname,3093,18212
+2025,Printemps, Nord,maïs,1351,1535
+2025,Printemps, Nord,maïs,1351,1535
+2025,Printemps,Nord,Sorgho,608,579 t
+2025,Printemps,Nord, Riz,1527,4346
+2025,Printemps,Nord,Haricot,246,158 t
+2025,Printemps,Nord,Pois congo,261,216 t
+2025,Printemps,Nord,Banane,1033,9486 t
+2025,Printemps,Nord,Igname,500,2825
+2025,Printemps,Sud ,Maïs,334,298
+2025,Printemps,sud,Sorgho,1712,1296 t
+2025,Printemps,Sud,Riz,2088,5467 t
+2025,Printemps,sud,Haricot ,1084,869
+2025,Printemps,Sud,Pois congo,1793,1372
+2025,Printemps,Sud,banane,871,6031
+2025,Printemps,Sud,Igname,806,4891
+2025,Printemps,centre,maïs,1861,2398
+2025,Printemps,Centre,sorgho,982,1086
+2025,Printemps,Centre,Haricot,625,
+2025,Printemps,Centre,Pois congo,873,592
+2025,Printemps,Centre,Banane,1825,13633
+2025,Printemps, Centre,IGNAME,1236,6449 t
+2025,Printemps,Nord-Ouest,Maïs,720,703
+2025,Printemps, Nord-Ouest,Sorgho,1651,1228
+2025,Printemps,Nord-Ouest,Haricot,1675,1122
+2025,Printemps,Nord-Ouest,Pois congo,325 ha,288
+2025,Printemps,Nord-Ouest,Banane,1041,6638
+2025,Printemps,Nord-Ouest,Igname,429,2692
+2025,Printemps,Sud-Est,Maïs,1441,1312
+2025,Printemps,Sud-Est,Sorgho,327,304
+2025,Printemps,Sud-Est,Haricot,635,420
+2025,Printemps,Sud-Est,POIS CONGO,1455,1273
+2025,Printemps,Sud-Est,Banane,964,7314
+2025,Printemps,Sud-Est,Igname,1116,6872
+2025,Printemps,Grand'Anse,Maïs,1285,1340
+2025,Printemps,GRAND'ANSE,Sorgho,833,895
+2025,Printemps,Grand'Anse,Haricot,350,294 t
+2025,Printemps,Grand'Anse,Pois congo,632,575 t
+2025,Printemps,GRAND'ANSE,Banane,1315,14568
+2025,Printemps,Grand'Anse,Igname,876,7374
+2025,Printemps,Nord-Est,Maïs,361,
+2025,Printemps,Nord-Est,Sorgho,408,328
+2025,Printemps,Nord-Est,Riz,800,1569
+2025,Printemps,nord-est,Haricot,559,301
+2025,Printemps,Nord-Est,Pois congo,727,488 t
+2025,Printemps,Nord-Est,Banane,1227,7638
+2025,Printemps,Nord-Est,Banane,1227,7638
+2025,Printemps,Nord-Est,Igname,400,1909
+2025,Printemps,Nippes, Maïs,1036,1126 t
+2025,Printemps,Nippes,Sorgho,819,708
+2025,Printemps,Nippes,Haricot,933,639
+2025,Printemps,Nippes,Pois congo,244,191
+2025,Printemps,Nippes,Banane,1016,7287
+2025,Printemps,Nippes,Igname,550,2888
+2025,Automne,Ouest,Maïs,883,896
+2025,Automne,Ouest,Sorgho,3921,3061
+2025,Automne,Ouest,Riz,3353,8549 t
+2025,Automne,Ouest,Haricot,3730,2240
+2025,Automne,ouest,Pois congo,2177,1633
+2025,Automne,ouest,Banane,758,5517
+2025,Automne,Ouest,Igname,1204,6631
+2025,Automne,Artibonite,Maïs,1880,1884
+2025,Automne,Artibonite,Sorgho,3107,2000
+2025,Automne,Artibonite,Riz,2348,7274
+2025,Automne,Artibonite,Haricot,934,577
+2025,Automne,Artibonite,Pois congo,904,587 t
+2025,Automne,artibonite,Banane,3982,24133
+2025,Automne,Artibonite,igname,943,4182
+2025,Automne,Nord,Maïs,1093,982
+2025,Automne,NORD,Sorgho,785,571
+2025,Automne,Nord,Riz,390,881
+2025,Automne,Nord ,Haricot,829,504
+2025,Automne,Nord,Pois congo,1716,1019
+2025,Automne,Nord,Banane,465,3952
+2025,Automne,Nord,Igname,740,3631
+2025,Automne,Sud,Maïs,685,709
+2025,Automne,Sud,Sorgho,385,289
+2025,Automne,Sud,Riz,1815,4221 t
+2025,Automne,Sud,Haricot,1335,1045
+2025,Automne,Sud,Pois congo,670,499 t
+2025,Automne,Sud,Banane,2121,15959
+2025,Automne,Sud,Igname,994,5461
+2025,Automne,Centre,Maïs,453,583
+2025,Automne,Centre,Sorgho,461,442 t
+2025,Automne,Centre,Haricot,2848,
+2025,Automne,Centre,Pois congo,2698,2261
+2025,Automne,Centre,Banane,1892,12279
+2025,Automne,Centre,Igname ,1 868,11708
+2025,Automne, Nord-Ouest,Maïs,800,721
+2025,Automne,Nord-Ouest,Sorgho,1242,1089 t
+2025,Automne,Nord-Ouest,Haricot,244,156
+2025,Automne,Nord-Ouest ,Pois congo ,1 475,1672
+2025,Automne,nord-ouest,Banane,1150,8115
+2025,Automne,Nord-Ouest,Igname,1285,6962
+2025,Automne,Sud-Est,Maïs,1694,1377
+2025,Automne,Sud-Est,Sorgho,1454,1198 t
+2025,Automne,Sud-Est,Haricot,1075,655 t
+2025,Automne,Sud-Est,Pois congo,1138,681
+2025,Automne,Sud-Est,Banane,1693,11594
+2025,Automne,Sud-Est,Igname,256,1193
+2025,Automne,Grand'Anse,Maïs,337,349
+2025,Automne,Grand'Anse,Sorgho,1256,1039
+2025,Automne,Grand'Anse,Haricot,408,234
+2025,Automne,Grand'Anse,Pois congo,520,347
+2025,Automne, Grand'Anse,Banane,502,4918
+2025,Automne,Grand'Anse,Igname,759,6326
+2025,Automne,Nord-Est ,Maïs ,485,392
+2025,Automne,Nord-Est,Sorgho,1157,906
+2025,Automne,Nord-Est,Riz,791,1828
+2025,Automne,Nord-Est,Haricot,1054,645
+2025,Automne,Nord-Est,Pois congo,765,478
+2025,Automne, Nord-Est,Banane,1072,5869 t
+2025,Automne,Nord-Est,igname,347,1489
+2025,Automne,Nippes,Maïs,542 ha,565
+2025,Automne,Nippes ,Sorgho,721,619
+2025,Automne,Nippes,Haricot,913,702
+2025,Automne,Nippes,pois congo,465,391
+2025,Automne,Nippes,Banane,919,6507
+2025,Automne,Nippes ,IGNAME,501,2637 t
